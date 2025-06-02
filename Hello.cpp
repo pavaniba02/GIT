@@ -1,3 +1,4 @@
+//Made some changes 
 #include <iostream>
 using namespace std;
 int main(){
@@ -6,4 +7,5 @@ int main(){
 	cout<<"This is SCM"<<endl;
 	cout<<"Welcome to GIT!!"<<endl;
 	return 0;
+	
 }
